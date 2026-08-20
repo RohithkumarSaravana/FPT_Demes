@@ -1,0 +1,6 @@
+dataset,n_configs,tourn_acc,tourn_bd,acc_wins,acc_ties,acc_losses,bd_wins,bd_ties,bd_losses
+wine,48,0.9111,0.1236,0,48,0,24,13,11
+iris,48,0.9553,0.0622,0,48,0,18,15,15
+australian,48,0.8581,0.1117,0,46,2,0,34,14
+pima,48,0.7542,0.3083,0,48,0,1,26,21
+heartDisease,48,0.8182,0.2192,0,42,6,17,24,7
