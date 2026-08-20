@@ -8,6 +8,8 @@ Each individual is a fuzzy-rule-based GP tree, evolved with
 [DEAP](https://deap.readthedocs.io/) and evaluated on classification accuracy and
 behavioural diversity (the fraction of unique prediction vectors in the population).
 
+**Repository:** https://github.com/RohithkumarSaravana/FPT_Demes
+
 ## Repository structure
 
 ```
